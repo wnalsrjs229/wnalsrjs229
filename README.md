@@ -1,8 +1,8 @@
-###JOO MINGUN
+### JOO MINGUN
 
 ---
 
-##📚Experience & Social Activiy
+## 📚Experience & Social Activiy
 - 국민대학교 소프트웨어학부 소프트웨어전공 (2023.03 ~ )
 - 국민대학교 오픈소스 소프트웨어 학술 동아리 KOSS 운영진 (2023.03 ~ 2023.12)
 - 국민대학교 소프트웨어융합대학 학생회 홍보부 부원 (2023.03 ~ 2023.12)
@@ -10,5 +10,5 @@
 
 ---
 
-##🎖️Awards
+## 🎖️Awards
 - KOSS X CODE-IT 해커톤 장려상🥉
