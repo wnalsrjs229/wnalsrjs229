@@ -1,7 +1,5 @@
 # 🧑🏻‍💻 JOO MINGUN
 
----
-
 ### 📚Experience & Social Activiy
 
 ---
