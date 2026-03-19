@@ -1,8 +1,8 @@
-##### JOO MINGUN
+# 🧑🏻‍💻 JOO MINGUN
 
 ---
 
-## 📚Experience & Social Activiy
+### 📚Experience & Social Activiy
 
 ---
 
@@ -13,5 +13,5 @@
 
 ---
 
-## 🎖️Awards
+### 🎖️Awards
 - KOSS X CODE-IT 해커톤 장려상🥉
