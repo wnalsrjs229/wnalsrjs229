@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**wnalsrjs229/wnalsrjs229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">JOO MINGUN</h3>
+---
+##📚Experience & Social Activiy
+- 국민대학교 소프트웨어학부 소프트웨어전공 (2023.03 ~ )
+- 국민대학교 오픈소스 소프트웨어 학술 동아리 KOSS 운영진 (2023.03 ~ 2023.12)
+- 국민대학교 소프트웨어융합대학 학생회 홍보부 부원 (2023.03 ~ 2023.12)
+- 국민대학교 웹 학술 동아리 WINK (2026.03 ~ )
+---
+##🎖️Awards
+- KOSS X CODE-IT 해커톤 장려상🥉
